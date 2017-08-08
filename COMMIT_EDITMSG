@@ -2,11 +2,8 @@
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
 # On branch master
-# Changes to be committed:
-#	modified:   homework2_1/Assets.xcassets/AppIcon.appiconset/Contents.json
-#	new file:   homework2_1/Assets.xcassets/LaunchImage.launchimage/Contents.json
-#
 # Changes not staged for commit:
 #	modified:   homework2_1.xcodeproj/project.pbxproj
 #	modified:   homework2_1/Info.plist
+#	modified:   homework2_1/ViewController.m
 #
